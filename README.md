@@ -1,5 +1,5 @@
-Nama : Diana Aurelia
-NIM  : 2609116105
+Nama : Diana Aurelia<br>
+NIM  : 2609116105<br>
 Kelas: C
 
 Sistem Pendataan Donor dan Stok Darah PMI
